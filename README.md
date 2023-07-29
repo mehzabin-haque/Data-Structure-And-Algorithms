@@ -7,6 +7,7 @@ This repository contains various data structures and algorithm implementations i
 
 - Implementation of a linked list data structure.
   
+----------------------------------------------------------------------------------------------------------------------
 
 ## 2. Binary Tree
 
@@ -30,6 +31,7 @@ This repository contains various data structures and algorithm implementations i
 
   Various backtracking algorithms and problem-solving techniques are explored in this subsection. Backtracking is a general algorithmic paradigm for finding all (or some) solutions to a problem by incrementally building candidates and eliminating those that fail to satisfy the conditions.
 
+----------------------------------------------------------------------------------------------------------------------
 
 ## 3. Graph
 
